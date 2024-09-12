@@ -8,7 +8,7 @@
 #set text(font: "Arial", size: 11pt)
 
 #show: cram-snap.with(
-  title: [Git Cheatsheet],
+  title: [tmux cheatsheet],
   icon: image("tmux-logo.svg"),
 )
 
